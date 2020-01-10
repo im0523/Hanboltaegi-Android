@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/csslect/app/controller/AController.java=UTF-8
+encoding//src/main/java/com/csslect/app/controller/HanController.java=UTF-8
+encoding//src/main/java/com/csslect/app/dao/ANDao.java=UTF-8
+encoding//src/main/java/com/csslect/app/dao/CommunityDAO.java=UTF-8
+encoding//src/main/java/com/csslect/app/dao/InquiryDAO.java=UTF-8
+encoding//src/main/java/com/csslect/app/dao/MemberDAO.java=UTF-8
